@@ -26,7 +26,7 @@ This portfolio showcases examples of my work in software testing: bug reports, t
 
 ## 🌍 Contacts
 
-- [LinkedIn](https://www.linkedin.com/in/nastassia-hardzeyenia)  
+- ![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn: [www.linkedin.com/in/nastassia-hardzeyenia](https://www.linkedin.com/in/nastassia-hardzeyenia)
 - Email: agardeena@gmail.com  
 
 ---
