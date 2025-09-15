@@ -7,7 +7,7 @@ This portfolio showcases examples of my work in software testing: bug reports, t
 
 ## 📂 Testing Documentation
 
-- 🐞 [Bug Reports]()  
+- 🐞 [Bug Reports](https://github.com/NHardzeyenia/BugReports)  
 - ✅ [Checklists]()  
 - 📝 [Test Cases]()  
 - 📑 [Test Plans]()  
