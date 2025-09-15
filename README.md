@@ -1,1 +1,34 @@
-# QA_Portfolio
+#  QA Portfolio
+
+Hi, I'm Anastasia, a QA Engineer.  
+This portfolio showcases examples of my work in software testing: bug reports, test cases, checklists, and more.  
+
+---
+
+## 📂 Testing Documentation
+
+- 🐞 [Bug Reports]()  
+- ✅ [Checklists]()  
+- 📝 [Test Cases]()  
+- 📑 [Test Plans]()  
+
+---
+
+## 🛠 Tools I Use
+
+- Jira 
+- Postman  
+- Chrome DevTools  
+- GitHub  
+- Figma  
+
+---
+
+## 🌍 Contacts
+
+- [LinkedIn](www.linkedin.com/in/nastassia-hardzeyenia-38bb05232)  
+- [Email](mailto:agardeena@gmail.com)  
+
+---
+
+⭐ *Feel free to check each section — all repositories contain real examples of QA documentation and testing work.*  
