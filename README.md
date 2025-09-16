@@ -1,7 +1,7 @@
 #  QA Portfolio
 
 Hi, I'm Anastasia, a QA Engineer.  
-This portfolio showcases examples of my work in software testing: bug reports, test cases, checklists, and more.  
+This portfolio showcases examples of my work in software testing: bug reports, test cases and checklists.
 
 ---
 
@@ -10,7 +10,6 @@ This portfolio showcases examples of my work in software testing: bug reports, t
 - 🐞 [Bug Reports](https://github.com/NHardzeyenia/BugReports)  
 - ✅ [Checklists](https://github.com/NHardzeyenia/QA-Checklist)  
 - 📝 [Test Cases](https://github.com/NHardzeyenia/QA-TestCases)  
-- 📑 [Test Plans]()  
 
 ---
 
